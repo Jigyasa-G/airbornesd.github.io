@@ -115,3 +115,10 @@ a {
 .handle a i {
   margin: 5px;
 }
+
+/*DARK MODE*/
+@media (prefers-color-scheme: dark) {
+  .body{
+    background-color: black;
+  }
+}
